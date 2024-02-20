@@ -1,0 +1,82 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+body{
+    background-image: url(https://images.pexels.com/photos/28054/pexels-photo-28054.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+}
+
+header{
+    /* background-color: white; */
+    padding: 10px;
+    color: white;
+    /* border: 2px solid white; */
+}
+
+#dmbl{
+
+    filter: invert(100%);
+    margin-left: 22.5px;
+
+}
+
+#n{
+    display: block;
+    /* border: 2px solid red; */
+    
+}
+.link{
+    display: inline;
+    /* text-decoration: none;
+    list-style-type: none; */
+    color: white;
+    
+    
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+
+    text-decoration: underline;
+    text-shadow: 2px;
+    
+}
+  
+
+.center{
+
+    margin: 10px;
+    position: relative;
+    left: 250px;
+    
+}
+
+.btn{
+
+   float: right;
+   margin-right: 10px;
+   padding: 5px 10px 5px 10px;
+   position: relative;
+   bottom: 6px;
+   border-radius: 5px;
+   border-style: hidden;
+   font-weight: 500;
+   
+}
+
+#logo-text{
+
+    font-weight: 700;
+    color: #00F48E;
+}
+
+
+/* ***********************Navigation bar styling ends here!******************* */
