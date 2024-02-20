@@ -80,3 +80,34 @@ a:hover{
 
 
 /* ***********************Navigation bar styling ends here!******************* */
+
+#formbox{
+    border: 1px solid #00F48E;
+    border-radius: 10px;
+    width: 50%;
+    margin: 80px 0px 0px 80px;
+    padding: 20px;
+   
+    
+}
+
+#formheading{
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: 400;
+}
+
+.plc{
+    display: block;
+    margin: auto;
+    /* margin: 10px; */
+    padding: 5px 30px 5px 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border-style: none;
+    text-align: center;
+}
+
+/* **********Footer styling starts************** */
+
